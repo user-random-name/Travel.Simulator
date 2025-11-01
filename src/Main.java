@@ -83,9 +83,6 @@ public class Main {
             double timemin = totalHours * 60;
             double timesec = timemin * 60;
 
-
-
-
             int totalMinutes = (int) Math.round(totalHours * 60);
 
             days = totalMinutes / (24 * 60);
